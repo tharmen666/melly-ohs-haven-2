@@ -13,6 +13,9 @@ It automates checklists, generates OHS documents, and visualizes compliance data
 - 📄 Automated compliance docs (Python automation)  
 - 📊 Real-time dashboards (Tableau concepts)  
 - 🌍 Multilingual support (English, Zulu, Xhosa, Sotho, Afrikaans)  
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Built with: Python](https://img.shields.io/badge/Built%20with-Python-blue.svg)
+![Hackathon](https://img.shields.io/badge/Submission-Tech%20Innovation%20for%20Good-blue)
 
 ---
 
