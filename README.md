@@ -23,8 +23,8 @@ Melly was created to make safety simple, visual, and accessible — empowering b
 ---
 
 ## 🏗️ Built With
-- [Gemini (Google AI Studio)](https://aistudio.google.com/)  
-- [Veo 3](https://labs.google/fx/tools/veo) – image-to-video generation  
+- Gemini (Google AI Studio)  
+- Veo 3 – image-to-video generation  
 - Google Vids – narration + structured videos  
 - Python – automation scripts for certificates/checklists  
 - Tableau – interactive safety dashboards (demo)  
@@ -52,4 +52,3 @@ Melly was created to make safety simple, visual, and accessible — empowering b
 ---
 
 ## 📂 Repo Structure (Planned)
-
