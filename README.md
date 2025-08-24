@@ -31,8 +31,8 @@ Melly was created to make safety simple, visual, and accessible — empowering b
 
 ---
 
-## 📹 Demo Video
-- [YouTube Demo](https://youtube.com/your-demo-link)  
+## 📹 ## ​ Demo Video
+[![Watch the Melly Demo](https://img.youtube.com/vi/cjE61IkU8_o/0.jpg)
 - [Google Drive Demo](https://drive.google.com/your-demo-link)  
 
 ---
