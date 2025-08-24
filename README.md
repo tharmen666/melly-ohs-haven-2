@@ -1,5 +1,11 @@
 # melly-ohs-haven-2
-Melly – AI-powered safety assistant for workplace compliance. Built with Gemini, Veo 3, Google Vids, Python automation, and Tableau dashboards.”
+Melly – AI-powered safety assistant for workplace compliance. # Melly – OHS Haven Safety Assistant
+
+[![View Repo](https://img.shields.io/badge/GitHub-Melly%20Repo-blue?logo=github)](https://github.com/<your-username>/melly-ohs-haven)
+
+Melly is an AI-powered compliance assistant that transforms workplace safety into engaging, multilingual, and accessible training.  
+It automates checklists, generates OHS documents, and visualizes compliance data in real time.
+Built with Gemini, Veo 3, Google Vids, Python automation, and Tableau dashboards.”
 # Melly – OHS Haven Safety Assistant
 
 Melly is an AI-powered compliance assistant that transforms workplace safety into engaging, multilingual, and accessible training.  
